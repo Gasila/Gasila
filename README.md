@@ -1,18 +1,16 @@
 ### Olá, eu sou o Gabriel! 👋
 
-Sou um desenvolvedor iniciante, criador de projetos românticos em HTML, e também um pequeno streamer conhecido como **Gasila** ❤️
+Sou um desenvolvedor iniciante, criador de projetos por hobby, e também um pequeno streamer conhecido como **Gasila**
 
-- 💡 Apaixonado por aprender e criar joguinhos personalizados no navegador
-- 🌟 Atualmente aprendendo **JavaScript** e **Unity**
-- 💍 Fiz um site interativo para minha namorada com fases, senhas e segredos escondidos no código
+- 🌟 Apaixonado videogames
 
 ---
 
 ### 🌐 Conecte-se comigo:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Gasila-red?style=for-the-badge&logo=youtube)](https://youtube.com)
-[![Twitch](https://img.shields.io/badge/Twitch-Gasila-9146FF?style=for-the-badge&logo=twitch)](https://twitch.tv)
-[![Instagram](https://img.shields.io/badge/Instagram-@gasila_-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Gasila-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@gabrielslannes)
+[![Twitch](https://img.shields.io/badge/Twitch-Gasila-9146FF?style=for-the-badge&logo=twitch)](https://www.twitch.tv/gasila)
+[![Instagram](https://img.shields.io/badge/Instagram-@gasila_-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabrielslannes)
 
 ---
 
@@ -33,7 +31,7 @@ Sou um desenvolvedor iniciante, criador de projetos românticos em HTML, e tamb�
 
 ---
 
-### 🌟 Um toque especial:
+### 💡 Obrigado por visitar meu Perfil!
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNjajF3aGp4eWsybTZ1ZW0zM2VibzNnbmhtN2Z2NnA0dzN2bmF1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcguWZHRC2HyBRS/giphy.gif" width="200"/>
 
