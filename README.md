@@ -8,9 +8,9 @@ Sou um desenvolvedor iniciante, criador de projetos por hobby, e também um pequ
 
 ### 🌐 Conecte-se comigo:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Gasila-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@gabrielslannes)
-[![Twitch](https://img.shields.io/badge/Twitch-Gasila-9146FF?style=for-the-badge&logo=twitch)](https://www.twitch.tv/gasila)
-[![Instagram](https://img.shields.io/badge/Instagram-@gasila_-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabrielslannes)
+[![YouTube](https://img.shields.io/badge/-🔴-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@gabrielslannes)
+[![Twitch](https://img.shields.io/badge/-🟣-9146FF?style=for-the-badge&logo=twitch)](https://www.twitch.tv/gasila)
+[![Instagram](https://img.shields.io/badge/-📸-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabrielslannes)
 
 ---
 
