@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor iniciante, criador de projetos por hobby, e também um pequeno streamer conhecido como **Gasila**
 
-- 🌟 Apaixonado videogames
+- 🌟 Apaixonado por videogames...
 
 ---
 
