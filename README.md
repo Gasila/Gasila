@@ -40,4 +40,3 @@ Sou um desenvolvedor iniciante, criador de projetos por hobby, e também um pequ
 > "Transformando sentimentos em código e memórias em projetos 🚀"
 
 ---
-![Gasila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasila&show_icons=true&theme=radical)
