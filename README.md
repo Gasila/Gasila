@@ -28,7 +28,8 @@ Sou um desenvolvedor iniciante, criador de projetos por hobby, e também um pequ
 ### 📊 Estatísticas do GitHub:
 
 ![Gasila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasila&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasila&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasila&layout=compact&theme=radical&langs_count=6&v=2)
+
 
 ---
 
@@ -39,10 +40,3 @@ Sou um desenvolvedor iniciante, criador de projetos por hobby, e também um pequ
 > "Transformando sentimentos em código e memórias em projetos 🚀"
 
 ---
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasila&layout=compact&langs_count=6)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasila&repo=nome-do-repo-python)
-
