@@ -31,9 +31,6 @@ Sou um desenvolvedor iniciante, criador de projetos por hobby, e também um pequ
 ![Gasila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasila&show_icons=true&theme=radical&v=2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasila&layout=compact&theme=radical&langs_count=6&v=2)
 
-![Gasila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gasila&show_icons=true&theme=radical&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasila&layout=compact&theme=radical&langs_count=6&v=2)
-
 
 
 ---
